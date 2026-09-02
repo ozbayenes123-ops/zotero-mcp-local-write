@@ -48,9 +48,9 @@ API's own write-key authorization flow.
 Requires Python 3.11+.
 
 ```sh
-pipx install git+https://github.com/YOUR_USERNAME/zotero-mcp-local-write.git
+pipx install git+https://github.com/ozbayenes123-ops/zotero-mcp-local-write.git
 # or, without installing:
-uvx --from git+https://github.com/YOUR_USERNAME/zotero-mcp-local-write.git zotero-mcp
+uvx --from git+https://github.com/ozbayenes123-ops/zotero-mcp-local-write.git zotero-mcp
 ```
 
 ## Configuration
