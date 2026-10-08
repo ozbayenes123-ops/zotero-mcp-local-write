@@ -1,4 +1,4 @@
-# Hermes local assets — do not commit
+# Hermes local assets
 node_modules/
 .venv/
 venv/
