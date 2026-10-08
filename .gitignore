@@ -1,18 +1,16 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
+# Hermes local assets — do not commit
+node_modules/
 .venv/
 venv/
-
-# Environment / secrets
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
 .env
-.env.*
-
-# OS / editor
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
+*.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.cache/
