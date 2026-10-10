@@ -14,3 +14,6 @@ __pycache__/
 *.key
 *.log
 .cache/
+__pycache__/
+*.pyc
+.pytest_cache/
